@@ -1,0 +1,1 @@
+enum UserType { ai, user }
